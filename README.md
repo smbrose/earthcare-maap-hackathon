@@ -21,7 +21,7 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | --- | --- | --- |
 | from 12:30 | **Registration**<br>- Lunch (optional) |  |
 | 14:00 | **Opening Session**<br>- Welcome<br>- Logistics<br>- Group distribution | Magellan |
-| 17:00 | Aperitivo | |
+| 17:00 | _Aperitivo_ | |
 
 **Tuesday, April 21**  
 
