@@ -66,7 +66,7 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | 13.00 | _Lunch_ | Cantine |
 | 14.00 - 14.45 | Phi-Experience (Group 2) | Building 11 |
 | 14:00 | Hacking | Room C, Room P |
-| 13.00 | _Hackathon Dinner_ | Frascati |
+| 19.00 | _Hackathon Dinner_ | Frascati |
 
 
 **Friday, April 24**  
