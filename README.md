@@ -13,7 +13,7 @@ ESA's 2026 EarthCARE MAAP Hackathon, ...  The event, taking place from **April 2
 
 ## Tech Plan 
 
-To minimze technical issues and spend as most time as possible for analysing data, please check out our getting started resources and read through the how2hack documentation carefully. The hackathon will make use of ESA’s MAAP (Multi-mission Algorithm and Analysis Platform), a collaborative JupyterLab environment. To ensure your account is ready for the online practical sessions and the hackathon please complete these steps as soon as possible:
+To minimze technical issues and spend as most time as possible for analysing data, please check out our getting started resources and read through the [how2hack](https://github.com/smbrose/earthcare-maap-hackathon/blob/main/how2hack.md) documentation carefully. The hackathon will make use of ESA’s MAAP (Multi-mission Algorithm and Analysis Platform), a collaborative JupyterLab environment. To ensure your account is ready for the online practical sessions and the hackathon please complete these steps as soon as possible:
  
 **Step 1**: [Create an EO Sign In Account](https://eoiam-idp.eo.esa.int/)
 
