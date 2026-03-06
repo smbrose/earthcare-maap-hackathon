@@ -3,7 +3,7 @@ https://eo4society.esa.int/event/esas-2026-earthcare-maap-hackathon/
 
 ## Welcome 
 
-ESA's 2026 EarthCARE MAAP Hackathon, ...  The event, taking place from **April 20 to 24, 2026** at ESA's center for Earth Observation, ESRIN in Frascati (Italy) will ... 
+
 
 ### Pre-hack online sessions: 
 
