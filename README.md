@@ -8,7 +8,7 @@ https://eo4society.esa.int/event/esas-2026-earthcare-maap-hackathon/
 ### Pre-hack online sessions: 
 
 - EarthCARE MAAP Hackathon Meet & Greet: March 12th from 12.00 – 13.30 UTC (13.00 – 14.30 CET)
-- EarthCARE Lecture: March 27th from 12.00 - 13.00 UTC (14.00 – 15.00 CEST)
+- EarthCARE Lecture: March 27th from 13.00 - 14.00 UTC (14.00 – 15.00 CET)
 - MAAP Introduction & Setup Seminar: March 31st from 11.00 – 12.00 UTC (13.00 – 14.30 CET)
 
 ## Tech Plan 
