@@ -62,7 +62,6 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | 09:00 | Hacking | Big Hall |
 | 10:45 - 11:15 | _Coffee break_ |  |
 | 13:00/15 | _Lunch_ | Cantine |
-| 14:00 | Climate Modelling Guest Lecture (R. Fievet) | Big Hall |
 | 14:00 | Hacking | Big Hall |
 | 18:30 | Shuttle bus to Frascati | |
 
