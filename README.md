@@ -37,47 +37,55 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | --- | --- | --- |
 | 13:30 | **Registration** |  |
 | 14:00 | **Opening Session**<br>- Welcome<br>- Logistics<br>- Group distribution and presentations of hack plan | Magellan |
-| 17:00 | _Aperitivo_ | |
+| 17:00 - 19:00 | _Aperitivo_ | |
+| 19:00 | Shuttle bus to Frascati | |
 
 **Tuesday, April 21**  
 
 | Time | Event | Room |
 | --- | --- | --- |
-| 08:30/09:00 | Hacking | Big Hall |
+| 08:45 | Shuttle bus from Frascati | |
+| 09:00 | Hacking | Big Hall |
 | 10:45 - 11:15 | _Coffee break_ |  |
 | 13:00/15 | _Lunch_ | Cantine |
 | 14:00 – 14:45 | Phi-Experience (Group 1) | Building 11 |
 | 14:00 | Hacking | Big Hall |
-| 19:00 | _End_ |  |
+| 18:30 | Shuttle bus to Frascati | |
+
 
 
 **Wednesday, April 22**  
 
 | Time | Event | Room |
 | --- | --- | --- |
-| 08:30/09:00 | Hacking | Big Hall |
+| 08:45 | Shuttle bus from Frascati | |
+| 09:00 | Hacking | Big Hall |
 | 10:45 - 11:15 | _Coffee break_ |  |
 | 13:00/15 | _Lunch_ | Cantine |
 | 14:00 | Climate Modelling Guest Lecture (R. Fievet) | Big Hall |
 | 14:00 | Hacking | Big Hall |
-| 19:00 | _End_ |  |
+| 18:30 | Shuttle bus to Frascati | |
 
 **Thursday, April 23**  
 
 | Time | Event | Room |
 | --- | --- | --- |
-| 08:30/09:00 | Hacking | Building 15, Science Hub|
+| 08:45 | Shuttle bus from Frascati | |
+| 09:00 | Hacking | Building 15, Science Hub|
 | 11.00 | _Coffee break_ |  |
 | 13.00/15 | _Lunch_ | Cantine |
 | 14.00 - 14.45 | Phi-Experience (Group 2) | Building 11 |
 | 14:00 | Hacking | Building 15, Science Hub |
-| 20.00 | _Hackathon Dinner_ | 'Na Fojetta, Frascati |
+| 18:45 | Shuttle bus #1 to Frascati | |
+| 19:15 | Shuttle bus #2 to Frascati | |
+| 19:30 | _Hackathon Dinner_ | 'Na Fojetta, Frascati |
 
 
 **Friday, April 24**  
 
 | Time | Event | Room |
 | --- | --- | --- |
+| 08:45 | Shuttle bus from Frascati | |
 | 09:00 | Hacking | Building 15 |
 | 11.00 | _Coffee break_ |  |
 | 13.00/15 | _Lunch_ | Cantine |
