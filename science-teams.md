@@ -26,7 +26,7 @@ Team members: Blanka, Gilberto, Anezka, Dimitra, Sophie, Will
 
 ## StCu-Clouds
 
-Team members: Johanna, Jakub, ...
+Team members: Johanna, Jakub, Romain, 
 
 
 
