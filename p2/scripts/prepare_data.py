@@ -1,3 +1,4 @@
+# Hello!
 import geopandas as gpd
 from shapely.geometry import box
 import matplotlib.pyplot as plt
@@ -50,7 +51,7 @@ def find_shifted_centre(center_lat, lat_track, std_dev, num_points, max_shift=1)
     idx_peak = np.clip(idx_peak, half_points, len(lat_track) - half_points)
     return idx_peak
 
-for unique_id in gdf["unique_id"].unique():
+for unique_id in gdf["unique_id"].unique()[129+64:]:
 
     row = gdf.loc[gdf["unique_id"] == unique_id].iloc[0]
     earthcare_id = row["earthcare_id"]
