@@ -88,8 +88,8 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | 09:00 | Hacking | Building 15 |
 | 11.00 | _Coffee break_ |  |
 | 13.00/15 | _Lunch_ | Cantine |
-| 14.00 | **Closing Session** | Magellan |
-|  | *End around 16.00* | |
+| 14.00 | **Closing Session** <br>- Welcome (Saskia / Beniamino) <br>- StCu Clouds <br>- Lightning <br>- AshSo2 <br>- Contrails <br>- PACE matchup tool (Sean / Kirk)<br>- Global Maps <br>- Aerosol-Cloud Interactions<br>- Below-cloud Aerosol<br>- PACE matchup tool <br>- EarthCARE Outlook (Loredana / Björn)  | Magellan |
+|  | *End around 16.30* | |
 
 ## Venue 
 ESRIN [is located in Frascati](https://maps.app.goo.gl/kmLJc7NGpFhz9wzK7), a small town 20 km south of Rome in Italy. 
