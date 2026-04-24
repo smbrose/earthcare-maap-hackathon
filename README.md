@@ -88,7 +88,7 @@ The EarthCARE MAAP Hackathon will run from Monday afternoon, April 20th, to Frid
 | 09:00 | Hacking | Building 15, Science Hub (Group 1,2) |
 | 11.00 | _Coffee break_ |  |
 | 13.00/15 | _Lunch_ | Cantine |
-| 14.00 | **Closing Session** <br>- Welcome (Saskia / Beniamino) <br>- StCu Clouds <br>- Lightning <br>- AshSo2 <br>- Contrails <br>- PACE matchup tool (Sean / Kirk)<br>- Global Maps <br>- Aerosol-Cloud Interactions<br>- Below-cloud Aerosoll <br>- EarthCARE Outlook (Loredana / Björn)  | Magellan |
+| 14.00 | **Closing Session** <br>- Welcome (Saskia / Beniamino) <br>- StCu Clouds <br>- Lightning <br>- AshSo2 <br>- Contrails <br>- PACE matchup tool (Sean / Kirk)<br>- Global Maps <br>- Aerosol-Cloud Interactions<br>- Below-cloud Aerosol <br>- EarthCARE Outlook (Loredana / Björn)  | Magellan |
 |  | *End around 16.30* | |
 
 ### Link to closing session: 
